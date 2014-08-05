@@ -8,3 +8,6 @@ ebin
 .idea
 *.iml
 storage.data
+*.o
+*.plt
+erl_crash.dump
